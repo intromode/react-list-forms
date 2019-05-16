@@ -27,3 +27,5 @@ export default function Colors({ colors }) {
 Colors.propTypes = {
   colors: PropTypes.array.isRequired
 };
+
+console.log('travis');
